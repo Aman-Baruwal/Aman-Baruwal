@@ -8,6 +8,6 @@
 ### Languages and Tools I'm Familiar With :
 
 ![](https://skillicons.dev/icons?i=django,py,html,css,php,mysql,figma,Wordpress)<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aman-Baruwal&theme=vue-youtube-dark&hide_border=true)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Aman-Baruwal&theme=youtube-dark&hide_border=true)<br/><br/>
 ![](https://komarev.com/ghpvc/?username=Aman-Baruwal&style=for-the-badge&color=red)
 

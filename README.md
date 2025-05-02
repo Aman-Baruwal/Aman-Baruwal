@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Data Analyis**.
 - 💼 I’m interested in **Data Analysis** and **Machine Learning**.
-- 📫 How to reach me **baruwal777@gmail.com** 
+- 📫 How to reach me **baruwal777@gmail.com** , **<a href="https://www.kaggle.com/bison777">Kaggle</a>** and **<a href="https://www.linkedin.com/in/aman-baruwal-40b3b7359">LinkedIn</a>**
 
 ### Languages and Tools I'm Familiar With :
 
